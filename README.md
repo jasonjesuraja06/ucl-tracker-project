@@ -4,7 +4,7 @@
 
 The **UEFA Champions League Player Performance Tracker** is a full-stack web application designed to track, analyze, and visualize the performance of **850+ players** competing in the **2024–2025 UEFA Champions League**.
 
-Built as a **resume-ready portfolio project**, it combines data engineering, backend APIs, modern frontend frameworks, and secure authentication — showcasing **end-to-end full-stack development skills** highly valued by **Big Tech companies** (Meta, Apple, Amazon, Netflix, Google, Microsoft, Uber) and **elite financial firms** (JPMorgan Chase, Morgan Stanley, Goldman Sachs, Charles Schwab).
+The project combines data engineering, backend APIs, modern frontend frameworks, and secure authentication.
 
 The project allows fans, analysts, and scouts to filter and compare players by team, nationality, and position, as well as view advanced statistics such as **expected goals (xG)** and **expected assisted goals (xAG)**.
 
