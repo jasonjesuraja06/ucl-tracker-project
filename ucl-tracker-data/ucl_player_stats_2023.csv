@@ -1,0 +1,728 @@
+player,nationality,position,team,age,games,games_starts,minutes,goals,assists,pens_made,xg,xg_assist
+Patrick van Aanholt,nl NED,"MF,DF",nl PSV Eindhoven,32,2,1,99,0,0,0,0.2,0.0
+Brenden Aaronson,us USA,MF,de Union Berlin,22,6,1,137,0,0,0,0.5,0.0
+Salis Abdul Samed,gh GHA,MF,fr Lens,23,6,6,495,0,0,0,0.2,0.3
+Francesco Acerbi,it ITA,DF,it Inter,35,6,4,423,0,1,0,0.2,0.3
+Elias Achouri,tn TUN,"FW,MF",dk FC Copenhagen,24,8,7,552,0,1,0,0.3,0.9
+Marcos Acuña,ar ARG,DF,es Sevilla,31,3,2,198,0,1,0,0.1,0.5
+Karim Adeyemi,de GER,FW,de Dortmund,21,12,8,707,2,1,0,1.8,1.4
+Yacine Adli,fr FRA,MF,it Milan,23,3,1,123,0,0,0,0.1,0.1
+Ruben Aguilar,fr FRA,DF,fr Lens,30,2,1,100,0,0,0,0.0,0.0
+Manuel Akanji,ch SUI,"DF,MF",eng Manchester City,28,8,7,665,2,0,0,1.0,0.6
+Nathan Aké,nl NED,"DF,MF",eng Manchester City,28,7,3,384,0,0,0,0.9,0.4
+Kerem Aktürkoğlu,tr TUR,"MF,FW",tr Galatasaray,24,6,5,440,2,0,0,2.1,0.9
+David Alaba,at AUT,DF,es Real Madrid,31,3,3,250,0,1,0,0.4,0.4
+Luis Alberto,es ESP,MF,it Lazio,30,8,8,642,0,1,0,0.9,2.2
+Toby Alderweireld,be BEL,DF,be Antwerp,34,5,5,450,0,0,0,1.5,0.1
+Mohamed Ali Cho,fr FRA,"FW,MF",es Real Sociedad,19,4,1,131,0,0,0,0.0,0.0
+Miguel Almirón,py PAR,FW,eng Newcastle Utd,29,6,4,413,1,1,0,1.4,0.6
+Marcos Alonso,es ESP,"DF,FW",es Barcelona,32,3,2,139,0,0,0,0.0,0.0
+Barış Alper Yılmaz,tr TUR,"FW,MF",tr Galatasaray,23,6,0,127,0,1,0,0.1,0.5
+Julián Álvarez,ar ARG,"MF,FW",eng Manchester City,23,7,2,282,5,2,0,1.7,1.3
+Mohamed Aly Camara,gn GUI,DF,ch Young Boys,25,5,5,450,0,1,0,0.0,0.0
+Aurele Amenda,ch SUI,DF,ch Young Boys,20,4,3,314,0,0,0,0.1,0.0
+Sofyan Amrabat,ma MAR,"MF,DF",eng Manchester Utd,26,5,4,325,0,0,0,0.1,0.1
+Elliot Anderson,eng ENG,MF,eng Newcastle Utd,20,2,0,45,0,0,0,0.0,0.1
+Felipe Anderson,br BRA,FW,it Lazio,30,8,7,542,0,1,0,0.6,1.3
+Angeliño,es ESP,DF,tr Galatasaray,26,6,5,424,0,0,0,0.0,0.1
+Peter Ankersen,dk DEN,DF,dk FC Copenhagen,32,7,5,465,0,0,0,0.2,0.3
+Antony,br BRA,FW,eng Manchester Utd,23,4,3,232,0,0,0,0.0,0.1
+Jon Aramburu,ve VEN,DF,es Real Sociedad,21,1,0,3,0,0,0,0.0,0.0
+Ronald Araújo,uy URU,DF,es Barcelona,24,8,8,658,0,0,0,0.9,0.3
+Tomás Araújo,pt POR,DF,pt Benfica,21,3,1,161,0,0,0,0.0,0.0
+Marko Arnautović,at AUT,FW,it Inter,34,4,2,192,2,0,0,2.9,0.0
+Kepa Arrizabalaga,es ESP,GK,es Real Madrid,28,4,4,360,0,0,0,0.0,0.0
+Marco Asensio,es ESP,"FW,MF",fr Paris S-G,27,6,1,124,0,0,0,0.4,0.2
+Kristjan Asllani,al ALB,MF,it Inter,21,6,2,205,0,0,0,0.1,0.2
+Otavio Ataide,br BRA,DF,pt Porto,21,2,2,210,0,1,0,0.0,0.0
+Emil Audero,id IDN,GK,it Inter,26,1,1,90,0,0,0,0.0,0.0
+Carlos Augusto,br BRA,"DF,FW",it Inter,24,7,5,475,0,0,0,0.4,0.1
+Yann Aurel Bisseck,de GER,DF,it Inter,22,3,2,172,0,0,0,0.0,0.1
+Fredrik Aursnes,no NOR,"DF,MF",pt Benfica,27,6,6,540,0,1,0,0.1,0.8
+Kaan Ayhan,tr TUR,"MF,DF",tr Galatasaray,28,5,5,380,0,0,0,0.4,0.2
+Neil El Aynaoui,fr FRA,MF,fr Lens,22,3,0,138,0,0,0,0.0,0.1
+Irakli Azarov,ge GEO,DF,ua Shakhtar,21,4,3,296,0,1,0,0.1,0.9
+César Azpilicueta,es ESP,DF,es Atlético Madrid,33,6,3,290,0,0,0,0.0,0.0
+Isaac Babadi,nl NED,"FW,MF",nl PSV Eindhoven,18,2,0,22,0,0,0,0.0,0.0
+Loïc Bade,fr FRA,DF,es Sevilla,23,2,1,95,0,0,0,0.0,0.0
+Alexander Bah,dk DEN,DF,pt Benfica,25,3,3,191,0,0,0,0.0,0.1
+Samson Baidoo,at AUT,DF,at RB Salzburg,19,5,3,303,0,0,0,0.2,0.0
+Cédric Bakambu,cd COD,FW,tr Galatasaray,32,2,0,38,1,0,0,0.5,0.0
+Johan Bakayoko,be BEL,FW,nl PSV Eindhoven,20,8,8,649,1,1,0,1.2,1.8
+Alejandro Balde,es ESP,DF,es Barcelona,19,6,3,331,0,0,0,0.1,0.2
+Michel-Ange Balikwisha,be BEL,"FW,MF",be Antwerp,22,5,5,384,1,0,0,0.7,0.6
+David von Ballmoos,ch SUI,GK,ch Young Boys,28,1,1,90,0,0,0,0.0,0.0
+Simon Banza,cd COD,FW,pt Braga,26,6,4,341,0,1,0,1.1,0.2
+Bradley Barcola,fr FRA,"FW,DF",fr Paris S-G,20,10,5,475,1,1,0,2.3,0.7
+Abdülkerim Bardakcı,tr TUR,DF,tr Galatasaray,28,6,6,540,0,0,0,0.5,0.0
+Roony Bardghji,se SWE,"MF,FW",dk FC Copenhagen,17,4,1,146,1,0,0,0.5,0.3
+Nicolò Barella,it ITA,MF,it Inter,26,8,4,468,0,1,0,0.9,1.8
+Harvey Barnes,eng ENG,FW,eng Newcastle Utd,25,1,0,1,0,0,0,0.0,0.0
+Romário Baró,pt POR,MF,pt Porto,23,1,1,63,0,0,0,0.0,0.1
+Ander Barrenetxea,es ESP,"FW,MF",es Real Sociedad,21,7,5,397,1,1,0,0.5,1.2
+Pablo Barrios,es ESP,MF,es Atlético Madrid,20,7,2,262,1,1,0,0.3,0.3
+Davide Bartesaghi,it ITA,FW,it Milan,17,1,0,3,0,0,0,0.0,0.0
+Alessandro Bastoni,it ITA,DF,it Inter,24,7,6,500,0,0,0,0.3,0.4
+Jelle Bataille,be BEL,DF,be Antwerp,24,6,4,410,0,1,0,0.0,1.0
+Christoph Baumgartner,at AUT,MF,de RB Leipzig,23,6,0,118,0,0,0,0.8,0.1
+Sheraldo Becker,sr SUR,FW,de Union Berlin,28,5,4,365,2,0,0,1.3,0.8
+Sheraldo Becker,sr SUR,FW,es Real Sociedad,28,1,1,60,0,0,0,0.0,0.0
+Thomas Beelen,nl NED,DF,nl Feyenoord,22,1,1,78,0,0,0,0.0,0.0
+Kevin Behrens,de GER,FW,de Union Berlin,32,5,4,299,0,0,0,0.9,0.0
+Armel Bella Kotchap,de GER,DF,nl PSV Eindhoven,21,2,1,84,0,0,0,0.0,0.0
+Jude Bellingham,eng ENG,"MF,FW",es Real Madrid,20,11,11,989,4,5,0,3.0,2.6
+Walter Benítez,ar ARG,GK,nl PSV Eindhoven,30,8,8,720,0,0,0,0.0,0.1
+Loris Benito,ch SUI,DF,ch Young Boys,31,5,5,406,0,0,0,0.3,0.0
+Ramy Bensebaini,dz ALG,DF,de Dortmund,28,5,4,375,0,0,0,0.1,0.1
+Lucas Beraldo,br BRA,DF,fr Paris S-G,19,5,4,409,0,0,0,0.0,0.0
+Paulo Bernardo,pt POR,MF,sct Celtic,21,6,2,312,0,0,0,0.0,0.1
+Juan Bernat,es ESP,DF,pt Benfica,30,2,1,111,0,0,0,0.1,0.0
+Mads Bidstrup,dk DEN,MF,at RB Salzburg,22,6,6,494,0,0,0,0.0,0.0
+Justin Bijlow,nl NED,GK,nl Feyenoord,25,4,4,360,0,0,0,0.0,0.0
+Janis Blaswich,de GER,GK,de RB Leipzig,32,5,5,450,0,1,0,0.0,0.3
+Lewin Blum,ch SUI,DF,ch Young Boys,22,4,2,216,1,0,0,0.1,0.1
+Oscar Bobb,no NOR,"FW,MF",eng Manchester City,20,4,2,218,1,0,0,0.2,0.2
+Sacha Boey,fr FRA,DF,tr Galatasaray,22,6,6,540,1,0,0,0.2,0.5
+Nicolai Boilesen,dk DEN,"DF,FW",dk FC Copenhagen,31,3,1,93,0,0,0,0.0,0.0
+Valerii Bondar,ua UKR,DF,ua Shakhtar,24,4,4,360,0,0,0,0.0,0.0
+Artem Bondarenko,ua UKR,MF,ua Shakhtar,22,4,2,221,0,0,0,0.5,0.0
+Leonardo Bonucci,it ITA,DF,de Union Berlin,36,3,3,259,0,0,0,0.0,0.0
+Gonçalo Borges,pt POR,FW,pt Porto,22,3,0,35,0,0,0,0.0,0.0
+Cristian Borja,co COL,DF,pt Braga,30,6,6,517,0,0,0,0.0,0.6
+Olivier Boscagli,fr FRA,DF,nl PSV Eindhoven,25,7,7,611,0,0,0,0.0,0.1
+Sven Botman,nl NED,DF,eng Newcastle Utd,23,1,1,90,0,0,0,0.0,0.0
+Julian Brandt,de GER,"MF,FW",de Dortmund,27,12,9,785,2,2,0,1.4,2.1
+Bruma,pt POR,FW,pt Braga,28,5,4,371,2,1,0,0.7,0.4
+Osman Bukari,gh GHA,FW,rs Red Star,24,6,5,486,2,2,0,1.0,2.5
+Dan Burn,eng ENG,DF,eng Newcastle Utd,31,4,3,277,1,0,0,0.2,0.0
+Jean Butez,fr FRA,GK,be Antwerp,28,5,5,450,0,0,0,0.0,0.0
+Arthur Cabral,br BRA,"FW,DF",pt Benfica,25,4,1,120,1,0,0,0.7,0.1
+Jens Cajuste,se SWE,MF,it Napoli,23,6,2,159,0,0,0,0.0,0.0
+Davide Calabria,it ITA,DF,it Milan,26,6,5,428,0,1,0,0.2,1.0
+Hakan Çalhanoğlu,tr TUR,MF,it Inter,29,6,6,509,1,0,1,1.1,1.5
+Eduardo Camavinga,fr FRA,MF,es Real Madrid,20,11,9,789,0,1,0,0.3,0.7
+Emre Can,de GER,"MF,DF",de Dortmund,29,11,11,909,0,0,0,0.2,0.2
+João Cancelo,pt POR,DF,es Barcelona,29,10,9,808,2,1,0,0.6,0.9
+Nicolás Capaldo,ar ARG,"MF,DF",at RB Salzburg,25,4,2,212,0,0,0,0.2,0.2
+Fábio Cardoso,pt POR,DF,pt Porto,29,3,3,269,0,0,0,0.0,0.0
+David Carmo,ao ANG,DF,pt Porto,24,4,4,360,0,0,0,0.0,0.0
+Cameron Carter-Vickers,us USA,DF,sct Celtic,25,4,3,299,0,0,0,0.1,0.0
+Dani Carvajal,es ESP,DF,es Real Madrid,31,10,9,846,1,1,0,0.6,1.1
+Fabio Carvalho,pt POR,MF,de RB Leipzig,20,3,1,123,0,0,0,0.1,0.0
+Vitor Carvalho,br BRA,MF,pt Braga,26,5,4,264,0,0,0,0.3,0.1
+Marc Casado,es ESP,MF,es Barcelona,19,2,0,24,0,0,0,0.0,0.0
+Nicolò Casale,it ITA,DF,it Lazio,25,2,2,180,0,0,0,0.0,0.0
+Casemiro,br BRA,MF,eng Manchester Utd,31,2,2,166,2,0,0,1.0,0.1
+Valentín Castellanos,ar ARG,FW,it Lazio,24,7,1,218,0,0,0,1.4,0.1
+André Castro,pt POR,MF,pt Braga,35,1,0,5,1,0,0,0.0,0.0
+Danilo Cataldi,it ITA,MF,it Lazio,28,5,1,160,0,0,0,0.0,0.0
+Dani Ceballos,es ESP,MF,es Real Madrid,26,3,2,152,1,0,0,0.2,0.2
+Miguel Chaiwa,zm ZAM,MF,ch Young Boys,19,3,0,60,0,0,0,0.0,0.0
+Chiquinho,pt POR,MF,pt Benfica,28,5,0,58,0,0,0,0.0,0.0
+Andreas Christensen,dk DEN,"DF,MF",es Barcelona,27,7,5,439,1,0,0,0.7,0.1
+Samuel Chukwueze,ng NGA,FW,it Milan,24,4,2,165,2,0,0,0.9,0.7
+Viktor Claesson,se SWE,"FW,MF",dk FC Copenhagen,31,7,6,479,0,0,0,0.8,0.4
+William Clem,dk DEN,MF,dk FC Copenhagen,19,1,1,68,0,0,0,0.0,0.0
+Ebrima Colley,gm GAM,"MF,FW",ch Young Boys,23,2,1,126,1,0,0,0.8,0.0
+Kingsley Coman,fr FRA,FW,de Bayern Munich,27,7,5,446,2,0,0,1.8,0.6
+Francisco Conceição,pt POR,"FW,MF",pt Porto,20,8,2,241,1,1,0,0.9,0.5
+Kobe Corbanie,be BEL,"DF,FW",be Antwerp,18,2,0,33,0,0,0,0.0,0.0
+Andreas Cornelius,dk DEN,"FW,MF",dk FC Copenhagen,30,3,0,82,0,0,0,0.1,0.1
+Ángel Correa,ar ARG,"FW,MF",es Atlético Madrid,28,10,2,324,1,0,0,2.1,0.8
+David Costa,pt POR,"MF,FW",fr Lens,22,3,1,114,0,0,0,0.0,0.0
+Diogo Costa,pt POR,GK,pt Porto,23,8,8,750,0,0,0,0.0,0.0
+Soumaïla Coulibaly,fr FRA,DF,be Antwerp,19,6,6,540,0,0,0,0.1,0.0
+Thibaut Courtois,be BEL,GK,es Real Madrid,31,1,1,90,0,0,0,0.0,0.0
+Juan Cuadrado,co COL,"DF,FW",it Inter,35,2,1,113,0,0,0,0.0,0.1
+Pau Cubarsí,es ESP,DF,es Barcelona,16,3,3,270,0,0,0,0.0,0.2
+Diogo Dalot,pt POR,DF,eng Manchester Utd,24,6,5,463,0,0,0,0.1,0.2
+Kevin Danso,at AUT,DF,fr Lens,24,6,6,540,0,0,0,0.6,0.0
+Matteo Darmian,it ITA,"DF,FW",it Inter,33,7,4,407,0,0,0,0.1,0.1
+David Datro Fofana,ci CIV,FW,de Union Berlin,20,4,2,199,1,0,0,0.9,0.3
+Alphonso Davies,ca CAN,DF,de Bayern Munich,22,10,7,706,1,0,0,0.2,0.2
+Kevin De Bruyne,be BEL,MF,eng Manchester City,32,2,2,201,2,2,0,1.2,0.6
+Ritchie De Laet,be BEL,DF,be Antwerp,34,4,3,223,0,0,0,0.0,0.3
+Rodrigo De Paul,ar ARG,MF,es Atlético Madrid,29,8,8,611,1,0,0,0.7,0.7
+Amar Dedić,ba BIH,DF,at RB Salzburg,20,6,6,540,0,0,0,0.2,0.1
+Miloš Degenek,au AUS,FW,rs Red Star,29,1,0,9,0,0,0,0.0,0.0
+Ousmane Dembélé,fr FRA,"FW,MF",fr Paris S-G,26,11,11,951,2,1,0,3.0,1.8
+Kerem Demirbay,de GER,MF,tr Galatasaray,30,2,1,61,0,0,0,0.0,0.0
+Thomas van den Belt,nl NED,MF,nl Feyenoord,22,1,0,36,0,0,0,0.0,0.0
+Sergiño Dest,us USA,DF,nl PSV Eindhoven,22,8,7,647,0,1,0,0.2,0.6
+Giovanni Di Lorenzo,it ITA,DF,it Napoli,29,8,8,720,1,1,0,0.4,1.7
+Ángel Di María,ar ARG,FW,pt Benfica,35,5,5,412,1,1,0,0.3,1.8
+Rúben Dias,pt POR,DF,eng Manchester City,26,9,9,765,0,0,0,0.7,0.0
+Brahim Díaz,ma MAR,"MF,FW",es Real Madrid,23,9,3,323,2,1,0,1.5,1.7
+Eric Dier,eng ENG,DF,de Bayern Munich,29,5,5,450,0,0,0,0.3,0.0
+Kevin Diks,id IDN,DF,dk FC Copenhagen,26,8,8,707,0,0,0,0.0,0.3
+Javairô Dilrosun,nl NED,DF,nl Feyenoord,25,1,0,12,0,0,0,0.0,0.0
+Federico Dimarco,it ITA,DF,it Inter,25,7,4,364,1,0,0,0.5,0.9
+Andy Diouf,fr FRA,MF,fr Lens,20,2,0,38,0,0,0,0.0,0.4
+Novatus Dismas,tz TAN,DF,ua Shakhtar,20,1,1,90,0,0,0,0.0,0.0
+Álvaro djaló,es ESP,FW,pt Braga,23,5,5,405,2,0,0,1.8,0.7
+Nasser Djiga,bf BFA,DF,rs Red Star,20,6,6,540,0,0,0,0.2,0.1
+Marko Dmitrović,rs SRB,GK,es Sevilla,31,4,4,360,0,0,0,0.0,0.0
+Danilho Doekhi,nl NED,DF,de Union Berlin,25,3,3,259,0,0,0,0.0,0.0
+Jeremy Doku,be BEL,"FW,MF",eng Manchester City,21,7,1,304,1,1,0,1.3,1.2
+Gianluigi Donnarumma,it ITA,GK,fr Paris S-G,24,12,12,"1,080",0,0,0,0.0,0.0
+Nene Dorgeles,ml MLI,"FW,MF",at RB Salzburg,20,4,2,138,0,0,0,1.1,0.0
+Aleksandar Dragović,at AUT,DF,rs Red Star,32,6,6,540,0,0,0,0.6,0.1
+Martin Dúbravka,sk SVK,GK,eng Newcastle Utd,34,1,1,90,0,0,0,0.0,0.0
+Denzel Dumfries,nl NED,DF,it Inter,27,5,4,320,0,1,0,0.9,0.9
+Ederson,br BRA,GK,eng Manchester City,29,7,7,660,0,0,0,0.0,0.0
+Jorge Eduardo Sánchez,mx MEX,DF,pt Porto,25,6,1,185,0,0,0,0.1,0.5
+Eguinaldo,br BRA,"MF,FW",ua Shakhtar,18,3,0,16,1,0,0,0.1,0.0
+Chidera Ejuke,ng NGA,FW,be Antwerp,25,4,1,152,0,0,0,0.2,0.2
+Jurgen Ekkelenkamp,nl NED,MF,be Antwerp,23,4,4,274,0,0,0,0.2,0.2
+Meschak Elia,cd COD,"FW,MF",ch Young Boys,25,6,6,498,2,0,0,0.7,0.6
+Elif Elmas,mk MKD,MF,de RB Leipzig,23,2,0,21,0,0,0,0.0,0.0
+Elif Elmas,mk MKD,"FW,MF",it Napoli,23,5,0,148,0,0,0,0.1,0.0
+Mohamed Elneny,eg EGY,MF,eng Arsenal,31,2,1,62,0,0,0,0.0,0.0
+Aritz Elustondo,es ESP,DF,es Real Sociedad,29,5,2,172,0,0,0,0.1,0.0
+Mohamed Elyounoussi,no NOR,"FW,MF",dk FC Copenhagen,28,8,8,684,3,0,0,2.1,1.4
+Youssef En-Nesyri,ma MAR,FW,es Sevilla,26,6,6,512,2,0,0,1.8,0.0
+Luis Enrique Palma,hn HON,FW,sct Celtic,23,5,4,266,2,0,1,1.1,0.0
+Christian Eriksen,dk DEN,MF,eng Manchester Utd,31,4,2,203,0,1,0,0.4,0.5
+Stephen Eustáquio,ca CAN,MF,pt Porto,26,8,6,532,1,0,0,0.5,0.3
+Evanilson,br BRA,FW,pt Porto,23,7,5,488,4,1,1,1.7,1.2
+Jonny Evans,nir NIR,DF,eng Manchester Utd,35,2,1,66,0,0,0,0.0,0.0
+Rasmus Falk,dk DEN,MF,dk FC Copenhagen,31,7,7,630,0,1,0,0.1,0.6
+João Félix,pt POR,FW,es Barcelona,23,9,4,369,3,1,0,1.6,0.5
+Bruno Fernandes,pt POR,"MF,FW",eng Manchester Utd,28,6,6,540,2,2,1,1.6,2.2
+Roger Fernandes,pt POR,FW,pt Braga,17,1,0,9,0,0,0,0.0,0.0
+Carlos Fernández,es ESP,FW,es Real Sociedad,27,4,0,68,0,0,0,0.1,0.0
+Fernando,br BRA,FW,at RB Salzburg,24,1,0,36,0,0,0,0.3,0.1
+Fernando,br BRA,MF,es Sevilla,36,4,4,328,0,0,0,0.0,0.1
+Alessandro Florenzi,it ITA,DF,it Milan,32,4,1,158,0,0,0,0.0,0.2
+Phil Foden,eng ENG,"FW,MF",eng Manchester City,23,8,7,681,5,4,0,3.3,2.1
+Diogo Fonseca,pt POR,DF,pt Braga,21,1,0,18,0,0,0,0.4,0.0
+José Fonte,pt POR,DF,pt Braga,39,4,4,360,0,0,0,0.3,0.0
+James Forrest,sct SCO,FW,sct Celtic,32,3,1,94,0,0,0,0.1,0.1
+Emil Forsberg,se SWE,"MF,FW",de RB Leipzig,31,6,6,406,1,0,0,0.8,0.4
+Amankwah Forson,gh GHA,"MF,FW",at RB Salzburg,20,4,0,68,0,0,0,0.2,0.1
+Héctor Fort,es ESP,DF,es Barcelona,16,1,1,59,0,0,0,0.0,0.0
+Mitchel Frame,sct SCO,FW,sct Celtic,17,1,0,16,0,0,0,0.0,0.0
+André Franco,pt POR,"MF,FW",pt Porto,25,4,3,236,0,0,0,0.7,0.5
+Przemysław Frankowski,pl POL,DF,fr Lens,28,6,6,527,1,2,1,0.8,1.1
+Davide Frattesi,it ITA,MF,it Inter,23,7,4,452,1,2,0,0.9,1.6
+Victor Froholdt,dk DEN,MF,dk FC Copenhagen,17,1,1,57,0,0,0,0.0,0.0
+Angelo Fulgini,fr FRA,MF,fr Lens,26,6,3,290,2,0,0,1.4,0.7
+Niclas Füllkrug,de GER,FW,de Dortmund,30,13,12,"1,036",3,2,0,5.4,1.9
+Kyogo Furuhashi,jp JPN,FW,sct Celtic,28,6,6,447,2,0,0,1.5,0.1
+Gianluca Gaetano,it ITA,MF,it Napoli,23,1,0,22,0,0,0,0.0,0.0
+Javi Galán,es ESP,DF,es Atlético Madrid,28,2,1,74,0,0,0,0.0,0.2
+Javi Galán,es ESP,DF,es Real Sociedad,28,2,2,177,0,0,0,0.0,0.1
+Galeno,br BRA,"MF,FW",pt Porto,25,7,7,649,5,4,0,2.9,1.0
+Silvère Ganvoula M'Boussy,cg CGO,FW,ch Young Boys,27,6,0,115,0,0,0,0.8,0.1
+Fran Garcia,es ESP,DF,es Real Madrid,23,4,2,189,0,1,0,0.0,0.3
+Ulisses Garcia,ch SUI,DF,ch Young Boys,27,6,6,502,0,0,0,0.4,1.0
+Alejandro Garnacho,ar ARG,"FW,MF",eng Manchester Utd,19,6,3,301,1,0,0,1.3,0.2
+Gavi,es ESP,MF,es Barcelona,18,3,3,226,1,0,0,0.5,0.1
+Lutsharel Geertruida,nl NED,DF,nl Feyenoord,23,6,6,540,0,0,0,0.4,0.0
+Mario Gila,es ESP,DF,it Lazio,22,4,4,350,0,0,0,0.1,0.0
+Santiago Giménez,mx MEX,FW,nl Feyenoord,22,4,4,347,2,1,0,2.3,0.4
+Olivier Giroud,fr FRA,FW,it Milan,36,6,6,510,1,2,0,2.6,0.5
+Jamie Gittens,eng ENG,FW,de Dortmund,18,7,2,205,1,0,0,0.5,0.1
+Omri Glazer,il ISR,GK,rs Red Star,27,6,6,540,0,0,0,0.0,0.0
+Oscar Gloukh,il ISR,"MF,FW",at RB Salzburg,19,6,6,476,2,1,0,1.2,0.7
+Serge Gnabry,de GER,FW,de Bayern Munich,28,7,3,200,2,0,0,0.7,0.2
+Giorgi Gocholeishvili,ge GEO,DF,ua Shakhtar,22,4,3,285,0,1,0,0.2,0.1
+Sergio Gómez,es ESP,"DF,FW",eng Manchester City,22,5,2,194,0,0,0,0.2,0.9
+Victor Gomez,es ESP,DF,pt Braga,23,4,4,312,0,0,0,0.0,0.5
+Diogo Gonçalves,pt POR,MF,dk FC Copenhagen,26,7,7,530,2,1,1,1.9,0.5
+Nicolás González,es ESP,MF,pt Porto,21,6,2,222,0,0,0,0.1,0.3
+Anthony Gordon,eng ENG,FW,eng Newcastle Utd,22,6,5,437,0,0,0,0.6,0.4
+Leon Goretzka,de GER,"MF,DF",de Bayern Munich,28,10,9,761,0,1,0,0.8,1.8
+Robin Gosens,de GER,"DF,MF",de Union Berlin,29,6,5,440,1,0,0,0.4,0.1
+Lucas Gourna-Douath,fr FRA,MF,at RB Salzburg,19,5,4,399,0,0,0,0.0,0.6
+Tiago Gouveia,pt POR,FW,pt Benfica,22,3,0,31,0,0,0,0.0,0.0
+Kamil Grabara,pl POL,GK,dk FC Copenhagen,24,8,8,720,0,0,0,0.0,0.0
+Jonathan Gradit,fr FRA,DF,fr Lens,30,6,6,510,0,0,0,0.0,0.0
+Jack Grealish,eng ENG,"FW,MF",eng Manchester City,27,8,8,530,0,2,0,1.1,2.0
+Antoine Griezmann,fr FRA,"FW,MF",es Atlético Madrid,32,10,10,818,6,1,0,4.2,3.1
+Marko Grujić,rs SRB,MF,pt Porto,27,3,0,50,0,0,0,0.0,0.0
+Nemanja Gudelj,rs SRB,DF,es Sevilla,31,6,6,540,2,0,0,0.4,0.1
+Gonçalo Guedes,pt POR,FW,pt Benfica,26,2,0,29,0,0,0,0.0,0.0
+Mattéo Guendouzi,fr FRA,MF,it Lazio,24,8,4,495,0,1,0,0.5,0.5
+Raphaël Guerreiro,pt POR,"DF,FW",de Bayern Munich,29,7,4,387,0,2,0,0.4,0.6
+Morgan Guilavogui,gn GUI,"FW,MF",fr Lens,25,4,0,70,0,0,0,0.6,0.1
+Bruno Guimarães,br BRA,MF,eng Newcastle Utd,25,6,6,540,0,1,0,0.3,0.4
+Marc Guiu,es ESP,FW,es Barcelona,17,2,0,35,1,0,0,0.4,0.0
+Péter Gulácsi,hu HUN,GK,de RB Leipzig,33,3,3,270,0,0,0,0.0,0.0
+İlkay Gündoğan,de GER,MF,es Barcelona,32,10,9,836,0,4,0,0.9,3.5
+Joško Gvardiol,hr CRO,DF,eng Manchester City,21,6,6,569,1,1,0,0.1,0.6
+Erling Haaland,no NOR,FW,eng Manchester City,23,9,9,776,6,1,2,7.0,1.1
+Janik Haberer,de GER,MF,de Union Berlin,29,5,4,357,0,0,0,0.2,0.1
+Amadou Haidara,ml MLI,"MF,DF",de RB Leipzig,25,5,3,266,0,0,0,0.1,0.3
+Massadio Haïdara,ml MLI,DF,fr Lens,30,4,1,118,0,0,0,0.0,0.1
+Achraf Hakimi,ma MAR,DF,fr Paris S-G,24,11,11,981,1,1,0,1.0,3.1
+Lewis Hall,eng ENG,DF,eng Newcastle Utd,18,1,1,45,0,0,0,0.0,0.0
+Sébastien Haller,ci CIV,"FW,MF",de Dortmund,29,4,0,64,1,0,0,0.3,0.0
+Micah Hamilton,eng ENG,FW,eng Manchester City,19,2,1,107,1,0,0,0.2,0.0
+Dávid Hancko,sk SVK,DF,nl Feyenoord,25,6,6,540,1,0,0,1.3,0.0
+Joe Hart,eng ENG,GK,sct Celtic,36,6,6,540,0,0,0,0.0,0.0
+Quilindschy Hartman,nl NED,DF,nl Feyenoord,21,6,6,540,0,0,0,0.3,0.7
+Reo Hatate,jp JPN,MF,sct Celtic,25,3,3,134,0,0,0,0.1,0.1
+Kai Havertz,de GER,"MF,FW",eng Arsenal,24,10,9,830,1,0,0,1.0,1.0
+Benjamin Henrichs,de GER,"DF,MF",de RB Leipzig,26,6,6,491,0,2,0,0.2,1.1
+Mario Hermoso,es ESP,DF,es Atlético Madrid,28,9,9,817,1,0,0,0.1,0.2
+Lucas Hernández,fr FRA,DF,fr Paris S-G,27,11,10,841,1,0,0,0.7,0.8
+Theo Hernández,fr FRA,DF,it Milan,25,6,6,540,0,1,0,0.8,0.9
+André Horta,pt POR,MF,pt Braga,26,3,0,33,0,0,0,0.0,0.1
+Ricardo Horta,pt POR,"FW,MF",pt Braga,28,6,6,500,0,3,0,1.2,1.2
+Mats Hummels,de GER,DF,de Dortmund,34,13,13,"1,170",1,1,0,0.9,0.2
+Oh Hyeon-gyu,kr KOR,"FW,MF",sct Celtic,22,5,0,104,0,0,0,0.2,0.0
+Elseid Hysaj,al ALB,DF,it Lazio,29,5,5,340,0,0,0,0.0,0.0
+Yang Hyunjun,kr KOR,FW,sct Celtic,21,4,2,209,0,0,0,0.0,0.0
+Oscar Højlund,dk DEN,MF,dk FC Copenhagen,18,6,0,47,0,0,0,0.2,0.0
+Rasmus Højlund,dk DEN,FW,eng Manchester Utd,20,6,6,485,5,0,0,3.5,0.5
+Mauro Icardi,ar ARG,FW,tr Galatasaray,30,6,6,518,2,0,1,4.1,0.8
+George Ilenikhena,ng NGA,FW,be Antwerp,16,6,1,157,1,0,0,0.8,0.3
+Ciro Immobile,it ITA,FW,it Lazio,33,8,7,502,4,0,1,3.1,0.3
+Hwang In-beom,kr KOR,MF,rs Red Star,26,6,6,530,1,1,0,0.9,1.2
+Alexander Isak,se SWE,FW,eng Newcastle Utd,23,5,4,312,1,0,0,1.4,0.4
+Gustav Isaksen,dk DEN,FW,it Lazio,22,5,2,245,0,1,0,0.7,0.8
+Cedric Itten,ch SUI,FW,ch Young Boys,26,4,4,278,1,0,1,1.3,0.0
+Mirko Ivanić,me MNE,MF,rs Red Star,29,5,5,373,0,1,0,0.5,0.7
+Luka Ivanušec,hr CRO,"FW,MF",nl Feyenoord,24,5,2,205,0,1,0,0.1,0.3
+Tomoki Iwata,jp JPN,"MF,FW",sct Celtic,26,3,1,62,0,0,0,0.0,0.0
+Paul Jaeckel,de GER,DF,de Union Berlin,25,3,2,175,0,0,0,0.0,0.0
+Alireza Jahanbakhsh,ir IRN,"FW,DF",nl Feyenoord,29,4,0,74,1,0,0,0.3,0.4
+Ivan Jaime Pajuelo,es ESP,MF,pt Porto,22,4,1,91,0,0,0,0.0,0.1
+Saidy Janko,gm GAM,DF,ch Young Boys,27,5,4,324,0,0,0,0.0,0.1
+Vincent Janssen,nl NED,FW,be Antwerp,29,6,5,409,1,0,0,1.0,0.3
+Elias Jelert,dk DEN,DF,dk FC Copenhagen,20,7,7,585,0,0,0,0.0,0.1
+Gabriel Jesus,br BRA,FW,eng Arsenal,26,8,4,406,4,3,0,2.1,2.2
+Juan Jesus,br BRA,DF,it Napoli,32,5,5,428,0,0,0,0.0,0.0
+Joelinton,br BRA,"MF,FW",eng Newcastle Utd,26,4,4,334,1,0,0,0.5,1.0
+Alistair Johnston,ca CAN,DF,sct Celtic,24,6,6,540,0,0,0,0.1,0.1
+Michael Johnston,ie IRL,FW,sct Celtic,24,2,1,97,0,0,0,0.0,0.2
+Frenkie de Jong,nl NED,MF,es Barcelona,26,5,5,393,0,0,0,0.0,0.1
+Luuk de Jong,nl NED,FW,nl PSV Eindhoven,32,7,7,627,3,0,2,3.8,0.5
+Joan Jordán,es ESP,MF,es Sevilla,29,2,1,81,0,0,0,0.0,0.0
+Jorginho,it ITA,MF,eng Arsenal,31,9,6,532,1,0,1,0.8,0.2
+Joselu,es ESP,FW,es Real Madrid,33,11,2,282,5,0,0,5.4,0.4
+Luka Jović,rs SRB,"FW,MF",it Milan,25,2,0,32,0,0,0,0.6,0.5
+Mauro Júnior,br BRA,"MF,DF",nl PSV Eindhoven,24,3,2,183,0,0,0,0.0,0.4
+Hamed Junior Traorè,ci CIV,MF,it Napoli,23,2,1,100,0,0,0,0.0,0.2
+Vinicius Júnior,br BRA,FW,es Real Madrid,23,10,10,898,6,4,1,4.5,3.3
+Josip Juranović,hr CRO,DF,de Union Berlin,27,5,5,414,0,0,0,0.2,0.5
+David Jurásek,cz CZE,"MF,DF",pt Benfica,22,3,1,129,0,0,0,0.0,0.1
+Uroš Kabić,rs SRB,DF,rs Red Star,19,1,0,13,0,0,0,0.0,0.0
+Pierre Kalulu,fr FRA,DF,it Milan,23,1,1,90,0,0,0,0.0,0.0
+Daichi Kamada,jp JPN,MF,it Lazio,26,7,3,258,0,0,0,0.1,0.1
+Dijon Kameri,at AUT,MF,at RB Salzburg,19,1,0,9,0,0,0,0.0,0.0
+Kevin Kampl,si SVN,MF,de RB Leipzig,32,7,3,282,0,2,0,0.0,0.4
+Harry Kane,eng ENG,FW,de Bayern Munich,30,12,12,"1,062",8,4,3,6.7,1.5
+Lee Kang-in,kr KOR,"MF,FW",fr Paris S-G,22,9,3,344,1,1,0,1.2,0.6
+Guélor Kanga,ga GAB,MF,rs Red Star,32,3,2,147,0,0,0,0.1,0.0
+Kings Kangwa,zm ZAM,MF,rs Red Star,24,1,0,9,0,0,0,0.0,0.0
+Kazımcan Karataş,tr TUR,DF,tr Galatasaray,20,1,1,74,0,0,0,0.0,0.0
+Oleksii Kashchuk,ua UKR,FW,ua Shakhtar,23,1,0,26,0,0,0,0.0,0.0
+Aleksandar Katai,rs SRB,"MF,FW",rs Red Star,32,5,0,79,1,0,0,0.4,0.6
+Mandela Keita,be BEL,MF,be Antwerp,21,3,3,262,0,0,0,0.0,0.0
+Kevin Kelsy,ve VEN,FW,ua Shakhtar,19,5,1,134,1,0,0,0.2,0.0
+Aljoscha Kemlein,de GER,MF,de Union Berlin,18,1,0,8,0,0,0,0.0,0.0
+Gyrano Kerk,sr SUR,FW,be Antwerp,27,5,3,206,0,0,0,0.2,0.0
+Rani Khedira,de GER,MF,de Union Berlin,29,4,4,290,0,0,0,0.0,0.4
+Abdukodir Khusanov,uz UZB,DF,fr Lens,19,2,0,30,0,0,0,0.0,0.0
+Joshua Kimmich,de GER,"MF,DF",de Bayern Munich,28,12,12,"1,080",1,2,0,0.7,2.1
+Jakub Kiwior,pl POL,DF,eng Arsenal,23,7,4,381,0,0,0,0.5,0.1
+Simon Kjær,dk DEN,DF,it Milan,34,1,0,1,0,0,0,0.0,0.0
+Maurits Kjærgaard,dk DEN,"MF,FW",at RB Salzburg,20,3,3,206,0,1,0,0.1,0.2
+Davy Klaassen,nl NED,"MF,FW",it Inter,30,4,1,84,0,0,0,0.0,0.0
+Lukas Klostermann,de GER,DF,de RB Leipzig,27,6,3,356,0,0,0,0.0,0.0
+Robin Knoche,de GER,DF,de Union Berlin,31,3,3,270,0,0,0,0.0,0.0
+Gregor Kobel,ch SUI,GK,de Dortmund,25,12,12,"1,080",0,0,0,0.0,0.0
+Sekou Koita,ml MLI,FW,at RB Salzburg,23,2,0,68,0,0,0,0.1,0.3
+Orkun Kökçü,tr TUR,MF,pt Benfica,22,5,3,263,0,0,0,0.2,0.1
+Koke,es ESP,MF,es Atlético Madrid,31,9,8,771,0,1,0,0.1,1.2
+Randal Kolo Muani,fr FRA,"FW,MF",fr Paris S-G,24,10,6,470,1,0,0,1.9,1.5
+Karim Konaté,ci CIV,"FW,MF",at RB Salzburg,19,5,3,237,0,0,0,1.8,0.2
+Yukhym Konoplia,ua UKR,DF,ua Shakhtar,23,3,3,255,0,1,0,0.1,0.3
+Ilias Kostis,gr GRE,FW,es Atlético Madrid,20,1,0,1,0,0,0,0.0,0.0
+Jules Koundé,fr FRA,DF,es Barcelona,24,8,8,720,0,0,0,0.0,0.3
+Mateo Kovačić,hr CRO,MF,eng Manchester City,29,6,5,433,0,0,0,0.4,0.6
+Alex Král,cz CZE,MF,de Union Berlin,25,6,2,251,1,1,0,0.1,0.3
+Jean-Philippe Krasso,ci CIV,"FW,MF",rs Red Star,26,4,1,111,0,1,0,0.5,0.0
+Frans Krätzig,de GER,DF,de Bayern Munich,20,1,0,5,0,0,0,0.0,0.0
+Toni Kroos,de GER,MF,es Real Madrid,33,12,10,858,0,2,0,0.3,1.9
+Rade Krunić,ba BIH,"MF,DF",it Milan,29,4,2,211,0,0,0,0.0,0.5
+Dmytro Kryskiv,ua UKR,"MF,FW",ua Shakhtar,22,5,5,388,0,0,0,0.1,0.1
+Takefusa Kubo,jp JPN,"FW,MF",es Real Sociedad,22,8,7,559,0,1,0,0.4,2.2
+Khvicha Kvaratskhelia,ge GEO,FW,it Napoli,22,8,8,668,0,1,0,0.9,1.4
+Gustaf Lagerbielke,se SWE,DF,sct Celtic,23,2,1,78,1,0,0,0.8,0.0
+Aïssa Laïdouni,tn TUN,MF,de Union Berlin,26,6,3,276,0,1,0,0.2,0.3
+Konrad Laimer,at AUT,"MF,DF",de Bayern Munich,26,11,8,772,0,1,0,0.1,0.1
+Érik Lamela,ar ARG,"FW,MF",es Sevilla,31,3,2,186,0,0,0,0.3,0.2
+Senne Lammens,be BEL,GK,be Antwerp,21,1,1,90,0,0,0,0.0,0.2
+Noa Lang,nl NED,FW,nl PSV Eindhoven,24,2,2,165,0,0,0,0.5,0.4
+Jordan Larsson,se SWE,"FW,MF",dk FC Copenhagen,26,5,1,104,0,0,0,1.0,0.0
+Jamaal Lascelles,eng ENG,DF,eng Newcastle Utd,29,5,5,450,0,0,0,0.1,0.1
+Sandro Lauper,ch SUI,MF,ch Young Boys,26,4,4,276,0,0,0,0.1,0.0
+Manuel Lazzari,it ITA,DF,it Lazio,29,7,3,425,0,0,0,0.0,0.4
+Robin Le Normand,es ESP,DF,es Real Sociedad,26,7,7,572,0,0,0,0.7,0.0
+Rafael Leão,pt POR,FW,it Milan,24,5,5,441,1,0,0,1.1,1.2
+Diogo Leite,pt POR,DF,de Union Berlin,24,6,6,540,0,0,0,0.0,0.1
+Stav Lemkin,il ISR,DF,ua Shakhtar,20,1,1,64,0,0,0,0.0,0.0
+Christopher Lenz,de GER,DF,de RB Leipzig,28,2,1,93,0,0,0,0.0,0.0
+Lukas Lerager,dk DEN,MF,dk FC Copenhagen,30,6,6,539,3,1,0,1.3,0.5
+Robert Lewandowski,pl POL,FW,es Barcelona,34,9,9,734,3,1,0,3.0,1.3
+Rico Lewis,eng ENG,"MF,DF",eng Manchester City,18,7,6,548,0,3,0,0.7,1.0
+Matthijs de Ligt,nl NED,DF,de Bayern Munich,23,6,5,468,0,1,0,0.2,0.6
+Victor Lindelöf,se SWE,DF,eng Manchester Utd,29,4,3,298,0,0,0,0.0,0.0
+Jesper Lindstrøm,dk DEN,FW,it Napoli,23,4,0,64,0,0,0,0.1,0.0
+Ondřej Lingr,cz CZE,"FW,MF",nl Feyenoord,24,4,0,69,0,0,0,0.1,0.0
+Samuel Lino,br BRA,DF,es Atlético Madrid,23,7,6,504,3,3,0,2.0,0.6
+Valentino Livramento,eng ENG,"DF,FW",eng Newcastle Utd,20,3,3,270,0,0,0,0.0,0.2
+Marcos Llorente,es ESP,"MF,DF",es Atlético Madrid,28,9,6,648,0,1,0,0.3,2.2
+Danny Loader,cm CMR,"MF,FW",pt Porto,22,3,0,16,0,0,0,0.0,0.0
+Stanislav Lobotka,sk SVK,MF,it Napoli,28,8,8,677,0,0,0,0.1,0.1
+Ruben Loftus-Cheek,eng ENG,MF,it Milan,27,4,4,323,0,0,0,0.5,0.4
+Sean Longstaff,eng ENG,MF,eng Newcastle Utd,25,5,4,354,1,0,0,0.1,0.1
+Rony Lopes,pt POR,FW,pt Braga,27,1,0,3,0,0,0,0.1,0.0
+Fermin López,es ESP,MF,es Barcelona,20,8,3,278,2,1,0,2.2,0.6
+Marcos López,pe PER,DF,nl Feyenoord,23,1,0,45,0,0,0,0.0,0.0
+Hirving Lozano,mx MEX,FW,nl PSV Eindhoven,28,7,4,377,0,0,0,0.7,0.1
+Vladimir Lučić,rs SRB,"DF,FW",rs Red Star,21,6,1,205,0,0,0,0.1,0.2
+Florentino Luís,pt POR,MF,pt Benfica,23,3,2,109,0,0,0,0.0,0.0
+Castello Lukeba,fr FRA,DF,de RB Leipzig,20,7,7,619,0,0,0,0.1,0.0
+Dodi Lukebakio,be BEL,FW,es Sevilla,25,4,3,246,0,0,0,0.2,0.3
+Valdemar Lund,dk DEN,DF,dk FC Copenhagen,20,2,0,29,0,0,0,0.0,0.0
+Andriy Lunin,ua UKR,GK,es Real Madrid,24,8,8,750,0,0,0,0.0,0.0
+Fabian Lustenberger,ch SUI,DF,ch Young Boys,35,1,1,90,0,0,0,0.1,0.0
+Ian Maatsen,nl NED,DF,de Dortmund,21,7,7,630,1,0,0,0.2,1.0
+Deiver Machado,co COL,DF,fr Lens,29,5,4,367,0,0,0,0.2,0.1
+Daizen Maeda,jp JPN,FW,sct Celtic,25,4,4,283,0,1,0,0.4,0.1
+Gabriel Magalhães,br BRA,DF,eng Arsenal,25,10,10,930,0,0,0,0.4,0.0
+Harry Maguire,eng ENG,DF,eng Manchester Utd,30,4,4,309,1,0,0,0.3,0.0
+Jon Magunazelaia,es ESP,MF,es Real Sociedad,22,1,0,14,0,0,0,0.1,0.0
+Mike Maignan,fr FRA,GK,it Milan,28,6,6,530,0,0,0,0.0,0.0
+Kobbie Mainoo,eng ENG,MF,eng Manchester Utd,18,2,0,44,0,0,0,0.0,0.0
+Donyell Malen,nl NED,FW,de Dortmund,24,8,6,455,1,0,0,2.1,0.4
+Darian Males,ch SUI,MF,ch Young Boys,22,6,2,167,0,0,0,0.2,0.2
+Reinildo Mandava,mz MOZ,DF,es Atlético Madrid,29,1,0,23,0,0,0,0.0,0.0
+José María Giménez,uy URU,DF,es Atlético Madrid,28,7,6,481,0,1,0,0.2,0.9
+Mariano,do DOM,"MF,FW",es Sevilla,29,3,0,63,0,0,0,0.2,0.0
+Adrián Marín,es ESP,DF,pt Braga,26,2,0,23,0,0,0,0.0,0.0
+João Mário,pt POR,"FW,MF",pt Benfica,30,5,5,322,3,0,0,1.5,0.1
+João Mário Lopes,pt POR,DF,pt Porto,23,8,7,592,0,1,0,0.1,1.1
+Marquinhos,br BRA,DF,fr Paris S-G,29,10,10,900,0,2,0,0.4,0.9
+Anthony Martial,fr FRA,"FW,DF",eng Manchester Utd,27,4,0,50,0,1,0,0.0,0.2
+Gabriel Martinelli,br BRA,FW,eng Arsenal,22,6,6,481,2,1,0,1.8,0.8
+Iñigo Martínez,es ESP,DF,es Barcelona,32,4,3,318,0,0,0,0.0,0.0
+Lautaro Martínez,ar ARG,FW,it Inter,25,8,5,532,2,0,1,5.1,0.7
+Lisandro Martínez,ar ARG,DF,eng Manchester Utd,25,1,1,90,0,0,0,0.0,0.0
+Toni Martínez,es ESP,FW,pt Porto,26,2,0,7,0,0,0,0.0,0.0
+Adam Marušić,me MNE,DF,it Lazio,30,7,6,514,0,0,0,0.0,0.2
+Matheus,br BRA,GK,pt Braga,31,6,6,540,0,0,0,0.0,0.0
+Magnus Mattsson,dk DEN,MF,dk FC Copenhagen,24,2,1,113,1,0,0,0.5,0.0
+Mykola Matviyenko,ua UKR,DF,ua Shakhtar,27,5,5,450,1,0,0,0.4,0.1
+Eric Maxim Choupo-Moting,cm CMR,"FW,MF",de Bayern Munich,34,5,0,44,0,0,0,0.5,0.1
+Noussair Mazraoui,ma MAR,DF,de Bayern Munich,25,8,8,647,0,1,0,0.1,0.6
+Kylian Mbappé,fr FRA,FW,fr Paris S-G,24,12,12,"1,080",8,0,3,8.0,4.5
+Callum McGregor,sct SCO,MF,sct Celtic,30,6,6,520,0,0,0,0.2,0.2
+Scott McKenna,sct SCO,DF,dk FC Copenhagen,26,2,2,180,0,0,0,0.1,0.0
+Scott McTominay,sct SCO,MF,eng Manchester Utd,26,5,4,382,1,1,0,1.4,1.2
+Facundo Medina,ar ARG,DF,fr Lens,24,6,6,495,0,0,0,0.4,0.1
+Hannibal Mejbri,tn TUN,"MF,FW",eng Manchester Utd,20,2,1,62,0,0,0,0.0,0.0
+Birger Meling,no NOR,DF,dk FC Copenhagen,28,3,2,193,0,1,0,0.0,0.4
+Memphis,nl NED,FW,es Atlético Madrid,29,3,0,104,1,0,0,1.0,0.1
+Joe Mendes,se SWE,DF,pt Braga,20,5,2,205,0,0,0,0.0,0.2
+Nuno Mendes,pt POR,DF,fr Paris S-G,21,5,5,420,0,0,0,0.2,0.4
+Brais Méndez,es ESP,MF,es Real Sociedad,26,7,7,526,3,1,0,1.9,0.7
+Ferland Mendy,fr FRA,DF,es Real Madrid,28,11,9,872,0,0,0,0.0,0.5
+Nampalys Mendy,sn SEN,MF,fr Lens,31,6,6,366,0,0,0,0.0,0.1
+Alex Meret,it ITA,GK,it Napoli,26,8,8,720,0,0,0,0.0,0.0
+Mikel Merino,es ESP,MF,es Real Sociedad,27,7,7,630,2,1,0,2.1,0.7
+Dries Mertens,be BEL,MF,tr Galatasaray,36,5,2,201,0,0,0,0.1,1.1
+Alexander Meyer,de GER,GK,de Dortmund,32,1,1,90,0,0,0,0.0,0.0
+Srđan Mijailović,rs SRB,"DF,MF",rs Red Star,29,6,6,487,0,0,0,0.1,0.0
+Jovan Mijatović,rs SRB,"FW,MF",rs Red Star,18,4,0,118,0,0,0,0.9,0.0
+Antoni Milambo,nl NED,"DF,MF",nl Feyenoord,18,2,0,37,0,0,0,0.0,0.0
+Lewis Miley,eng ENG,MF,eng Newcastle Utd,17,3,2,170,0,1,0,0.0,0.2
+Éder Militão,br BRA,DF,es Real Madrid,25,3,0,13,0,0,0,0.0,0.0
+Kim Min-jae,kr KOR,DF,de Bayern Munich,26,9,7,660,0,0,0,0.1,0.1
+Yankuba Minteh,gm GAM,FW,nl Feyenoord,19,4,2,198,1,0,0,1.3,0.3
+Rafa Mir,es ESP,FW,es Sevilla,26,2,0,38,0,0,0,0.1,0.0
+Stefan Mitrović,rs SRB,"DF,FW",rs Red Star,20,3,3,209,0,0,0,0.1,0.0
+Henrikh Mkhitaryan,am ARM,MF,it Inter,34,7,7,516,0,0,0,0.3,0.4
+Luka Modrić,hr CRO,MF,es Real Madrid,37,11,3,420,0,0,0,1.1,0.9
+Nahuel Molina,ar ARG,DF,es Atlético Madrid,25,10,10,787,0,2,0,0.1,0.7
+Joel Monteiro,ch SUI,"FW,MF",ch Young Boys,23,4,3,264,0,1,0,0.3,0.7
+Álvaro Morata,es ESP,FW,es Atlético Madrid,30,10,8,665,5,1,0,4.6,0.1
+Morato,br BRA,DF,pt Benfica,22,5,4,435,0,0,0,0.3,0.4
+Leandro Morgalla,de GER,DF,at RB Salzburg,18,1,0,45,0,0,0,0.0,0.0
+Youssoufa Moukoko,de GER,FW,de Dortmund,18,4,0,20,0,0,0,0.0,0.0
+Mason Mount,eng ENG,"MF,FW",eng Manchester Utd,24,2,1,91,0,0,0,0.5,0.0
+João Moutinho,pt POR,MF,pt Braga,36,5,3,291,0,0,0,0.1,0.2
+Arbnor Muja,al ALB,FW,be Antwerp,24,5,4,357,1,0,0,0.8,0.1
+Nordi Mukiele,fr FRA,DF,fr Paris S-G,25,3,0,57,0,0,0,0.0,0.0
+Thomas Müller,de GER,MF,de Bayern Munich,33,9,4,426,1,1,0,1.5,1.5
+Aihen Muñoz,es ESP,DF,es Real Sociedad,25,6,5,474,0,1,0,0.1,0.8
+Jacob Murphy,eng ENG,FW,eng Newcastle Utd,28,3,1,87,0,1,0,0.1,0.0
+Petar Musa,hr CRO,"FW,MF",pt Benfica,25,6,2,233,0,0,0,1.2,0.2
+Yunus Musah,us USA,MF,it Milan,20,5,4,350,0,0,0,0.2,0.2
+Jamal Musiala,de GER,"MF,FW",de Bayern Munich,20,11,11,877,2,1,0,2.1,1.8
+Fernando Muslera,uy URU,GK,tr Galatasaray,37,6,6,540,0,0,0,0.0,0.0
+Almoatasem Al Musrati,ly LBY,MF,pt Braga,27,5,3,309,0,0,0,0.3,0.1
+Nacho,es ESP,DF,es Real Madrid,33,12,11,980,0,0,0,0.4,0.1
+Natan,br BRA,DF,it Napoli,22,6,5,451,0,1,0,0.2,0.7
+Fran Navarro,es ESP,FW,pt Porto,25,1,0,8,0,0,0,0.0,0.0
+Jesús Navas,es ESP,DF,es Sevilla,37,4,3,218,0,0,0,0.0,0.2
+Yehor Nazaryna,ua UKR,MF,ua Shakhtar,26,4,2,204,0,1,0,0.2,1.2
+Cherif Ndiaye,sn SEN,FW,rs Red Star,27,6,5,356,1,0,0,2.8,0.4
+Tanguy Ndombele,fr FRA,MF,tr Galatasaray,26,4,1,92,0,0,0,0.1,0.0
+Kosta Nedeljković,rs SRB,DF,rs Red Star,17,4,2,238,0,0,0,0.2,0.1
+Reiss Nelson,eng ENG,FW,eng Arsenal,23,5,1,177,0,2,0,0.4,0.4
+Victor Nelsson,dk DEN,DF,tr Galatasaray,24,4,1,103,0,0,0,0.0,0.0
+David Neres,br BRA,FW,pt Benfica,26,3,2,177,0,0,0,0.2,0.0
+Manuel Neuer,de GER,GK,de Bayern Munich,37,9,9,810,0,0,0,0.0,0.0
+João Neves,pt POR,MF,pt Benfica,18,6,6,540,0,0,0,0.4,0.2
+Newerton,br BRA,"MF,FW",ua Shakhtar,18,4,2,218,0,0,0,0.7,0.1
+Cyril Ngonge,be BEL,FW,it Napoli,23,1,0,1,0,0,0,0.0,0.0
+Sikou Niakaté,ml MLI,DF,pt Braga,24,5,5,390,1,0,0,0.9,0.0
+Tanguy Nianzou,fr FRA,DF,es Sevilla,21,2,0,33,0,0,0,0.0,0.0
+Bart Nieuwkoop,nl NED,DF,nl Feyenoord,27,3,2,81,0,0,0,0.0,0.0
+Saúl Ñíguez,es ESP,MF,es Atlético Madrid,28,10,5,435,1,0,0,0.4,0.1
+Eddie Nketiah,eng ENG,FW,eng Arsenal,24,6,1,141,1,0,0,0.4,0.0
+Felix Nmecha,de GER,MF,de Dortmund,22,8,3,352,1,0,0,0.5,0.2
+Jean-Pierre Nsame,cm CMR,FW,ch Young Boys,30,4,2,158,0,1,0,0.5,0.7
+Matheus Nunes,pt POR,"MF,FW",eng Manchester City,24,7,5,422,0,1,0,1.7,1.2
+Ørjan Nyland,no NOR,GK,es Sevilla,32,2,2,180,0,0,0,0.0,0.0
+Matt O'Riley,dk DEN,MF,sct Celtic,22,6,6,486,0,3,0,0.1,2.3
+Armando Obispo,nl NED,DF,nl PSV Eindhoven,24,2,1,91,0,0,0,0.1,0.0
+Jan Oblak,si SVN,GK,es Atlético Madrid,30,10,10,930,0,0,0,0.0,0.0
+Lucas Ocampos,ar ARG,FW,es Sevilla,29,5,4,345,1,0,0,0.7,0.5
+Álvaro Odriozola,es ESP,"DF,FW",es Real Sociedad,27,3,1,97,0,0,0,0.0,0.0
+Noah Okafor,ch SUI,FW,it Milan,23,3,0,36,0,1,0,0.1,0.2
+Olasagasti,es ESP,MF,es Real Sociedad,22,1,0,8,0,0,0,0.1,0.0
+Peter Olayinka,ng NGA,"DF,FW",rs Red Star,27,5,2,175,0,0,0,0.1,0.0
+Sérgio Oliveira,pt POR,MF,tr Galatasaray,31,5,0,129,0,1,0,0.1,0.4
+Mathías Olivera,uy URU,DF,it Napoli,25,6,3,328,0,0,0,0.3,0.3
+Dani Olmo,es ESP,MF,de RB Leipzig,25,3,2,181,1,0,0,0.9,0.3
+André Onana,cm CMR,GK,eng Manchester Utd,27,6,6,540,0,0,0,0.0,0.0
+Loïs Openda,be BEL,FW,de RB Leipzig,23,8,7,553,4,0,0,3.5,0.6
+Fredrik Oppegard,no NOR,FW,nl PSV Eindhoven,20,1,0,1,0,0,0,0.0,0.0
+Willi Orban,hu HUN,DF,de RB Leipzig,30,2,2,180,1,0,0,0.2,0.1
+Stefan Ortega,de GER,GK,eng Manchester City,30,3,3,270,0,0,0,0.0,0.0
+Victor Osimhen,ng NGA,FW,it Napoli,24,6,5,458,2,0,0,2.4,0.7
+Nicolás Otamendi,ar ARG,DF,pt Benfica,35,6,6,540,0,1,0,0.5,0.4
+Mikel Oyarzabal,es ESP,"FW,MF",es Real Sociedad,26,7,7,585,2,0,0,2.2,0.5
+Salih Özcan,tr TUR,MF,de Dortmund,25,9,4,443,0,0,0,0.1,0.2
+Jon Pacheco,es ESP,DF,es Real Sociedad,22,5,0,123,0,0,0,0.1,0.0
+Igor Paixão,br BRA,FW,nl Feyenoord,23,6,6,397,0,0,0,1.4,1.5
+Thomas Partey,gh GHA,MF,eng Arsenal,30,1,0,5,0,0,0,0.0,0.0
+Patric,es ESP,DF,it Lazio,30,5,4,370,0,0,0,0.0,0.1
+Benjamin Pavard,fr FRA,DF,it Inter,27,5,5,480,0,0,0,0.0,0.1
+Aleksandar Pavlovic,de GER,MF,de Bayern Munich,19,3,2,207,0,0,0,0.0,0.0
+Strahinja Pavlović,rs SRB,DF,at RB Salzburg,22,6,6,493,0,0,0,0.0,0.1
+Nicolás Paz,ar ARG,MF,es Real Madrid,18,3,0,41,1,0,0,0.0,0.0
+Pedri,es ESP,"MF,FW",es Barcelona,20,6,3,329,0,3,0,0.3,0.7
+Pedro,es ESP,FW,it Lazio,36,8,1,193,2,0,1,1.0,0.3
+Adrià Pedrosa,es ESP,"DF,FW",es Sevilla,25,4,4,327,0,0,0,0.1,0.0
+Luca Pellegrini,it ITA,DF,it Lazio,24,4,2,161,0,0,0,0.0,0.0
+Facundo Pellistri,uy URU,FW,eng Manchester Utd,21,3,1,109,0,0,0,0.4,0.0
+Iñaki Peña,es ESP,GK,es Barcelona,24,2,2,180,0,0,0,0.0,0.0
+Pepe,pt POR,DF,pt Porto,40,7,7,660,2,0,0,0.1,0.1
+Pepê,br BRA,"MF,FW",pt Porto,26,7,7,642,1,2,0,1.2,0.8
+Ricardo Pepi,us USA,"FW,MF",nl PSV Eindhoven,20,8,1,136,1,1,0,0.8,0.2
+Danilo Pereira,pt POR,DF,fr Paris S-G,31,3,2,158,0,0,0,0.0,0.2
+Noah Persson,se SWE,"DF,MF",ch Young Boys,20,3,0,38,0,0,0,0.0,0.0
+Kalvin Phillips,eng ENG,MF,eng Manchester City,27,4,1,129,1,0,1,0.9,0.0
+Nathaniel Phillips,eng ENG,DF,sct Celtic,26,2,1,90,0,0,0,0.0,0.0
+Kamil Piątkowski,pl POL,DF,at RB Salzburg,23,3,2,182,0,0,0,0.0,0.0
+Pizzi,pt POR,MF,pt Braga,33,2,1,51,0,0,0,0.1,0.1
+Tommaso Pobega,it ITA,MF,it Milan,24,4,2,149,0,0,0,0.6,0.0
+Matteo Politano,it ITA,FW,it Napoli,29,8,8,576,1,1,0,0.6,1.1
+Nick Pope,eng ENG,GK,eng Newcastle Utd,31,5,5,450,0,0,0,0.0,0.0
+Yussuf Poulsen,dk DEN,"FW,MF",de RB Leipzig,29,7,4,337,0,1,0,0.6,0.8
+Ivan Provedel,it ITA,GK,it Lazio,29,8,8,720,1,0,0,0.5,0.0
+Christian Pulisic,us USA,FW,it Milan,24,6,5,440,1,0,0,1.1,0.6
+Anthony Racioppi,ch SUI,GK,ch Young Boys,24,5,5,450,0,0,0,0.0,0.0
+Ivan Rakitić,hr CRO,MF,es Sevilla,35,6,5,459,0,3,0,0.1,2.1
+Yaroslav Rakitskiy,ua UKR,DF,ua Shakhtar,33,5,4,343,1,0,0,0.0,0.3
+André Ramalho,br BRA,DF,nl PSV Eindhoven,31,6,5,423,0,0,0,0.2,0.1
+Gonçalo Ramos,pt POR,FW,fr Paris S-G,22,7,2,215,0,0,0,1.7,0.4
+Sergio Ramos,es ESP,DF,es Sevilla,37,5,5,450,2,1,1,1.8,0.2
+Aaron Ramsdale,eng ENG,GK,eng Arsenal,25,1,1,90,0,0,0,0.0,0.0
+Raphinha,br BRA,FW,es Barcelona,26,7,6,470,3,2,0,2.5,1.6
+Marcus Rashford,eng ENG,FW,eng Manchester Utd,25,4,4,288,0,2,0,0.1,1.2
+Giacomo Raspadori,it ITA,"FW,MF",it Napoli,23,8,2,253,1,0,0,0.3,0.6
+Petar Ratkov,rs SRB,FW,at RB Salzburg,19,6,2,212,0,0,0,0.5,0.6
+David Raum,de GER,DF,de RB Leipzig,25,7,7,630,1,3,0,0.2,3.2
+David Raya,es ESP,GK,eng Arsenal,27,9,9,840,0,0,0,0.0,0.0
+Sergio Reguilón,es ESP,DF,eng Manchester Utd,26,2,2,152,0,0,0,0.2,0.1
+Tijjani Reijnders,nl NED,MF,it Milan,25,6,5,480,0,0,0,0.3,0.2
+Álex Remiro,es ESP,GK,es Real Sociedad,28,8,8,720,0,0,0,0.0,0.0
+Marco Reus,de GER,"MF,FW",de Dortmund,34,13,5,487,2,1,1,2.0,0.6
+Gio Reyna,us USA,"FW,MF",de Dortmund,20,2,0,22,0,0,0,0.0,0.0
+Declan Rice,eng ENG,MF,eng Arsenal,24,10,9,838,0,1,0,0.2,0.3
+Rodrigo Riquelme,es ESP,DF,es Atlético Madrid,23,8,2,319,0,0,0,0.7,0.7
+Dmytro Riznyk,ua UKR,GK,ua Shakhtar,24,6,6,540,0,0,0,0.0,0.0
+Sergi Roberto,es ESP,MF,es Barcelona,31,5,2,203,0,1,0,0.0,1.2
+Milan Rodić,rs SRB,DF,rs Red Star,32,6,5,415,0,0,0,0.1,0.7
+Rodri,es ESP,MF,eng Manchester City,27,8,8,696,1,2,0,0.8,1.0
+Rodrygo,br BRA,FW,es Real Madrid,22,13,12,"1,012",5,2,0,5.7,2.1
+Alessio Romagnoli,it ITA,DF,it Lazio,28,6,6,540,0,1,0,0.7,0.4
+Oriol Romeu,es ESP,MF,es Barcelona,31,7,4,343,0,0,0,0.1,0.5
+Jérôme Roussillon,fr FRA,DF,de Union Berlin,30,4,3,264,0,1,0,0.1,0.8
+Nicolò Rovella,it ITA,MF,it Lazio,21,3,2,136,0,0,0,0.0,0.0
+Amir Rrahmani,xk KVX,DF,it Napoli,29,7,7,552,1,0,0,0.5,0.1
+Donat Rrudhani,xk KVX,MF,ch Young Boys,24,1,0,9,0,0,0,0.0,0.1
+Antonio Rüdiger,de GER,DF,es Real Madrid,30,12,11,"1,040",0,2,0,0.7,1.2
+Mário Rui,pt POR,DF,it Napoli,32,4,3,212,0,0,0,0.0,0.0
+Abel Ruiz,es ESP,"FW,MF",pt Braga,23,6,1,213,0,0,0,0.9,0.1
+Fabián Ruiz Peña,es ESP,MF,fr Paris S-G,27,9,7,619,0,2,0,1.4,0.6
+Julian Ryerson,no NOR,DF,de Dortmund,25,10,10,896,0,0,0,0.2,0.2
+Frederik Rønnow,dk DEN,GK,de Union Berlin,30,6,6,540,0,0,0,0.0,0.0
+Serdar Saatçı,tr TUR,DF,pt Braga,20,4,3,325,0,0,0,0.3,0.0
+Marcel Sabitzer,at AUT,MF,de Dortmund,29,12,11,928,1,5,0,1.2,1.4
+Umar Sadiq,ng NGA,FW,es Real Sociedad,26,4,1,102,0,0,0,0.0,0.1
+Ismael Saibari,ma MAR,MF,nl PSV Eindhoven,22,7,3,318,1,0,0,1.8,0.4
+Wesley Saïd,fr FRA,"FW,MF",fr Lens,28,3,0,55,0,0,0,0.2,0.1
+Bukayo Saka,eng ENG,FW,eng Arsenal,21,9,9,720,4,4,0,1.6,1.9
+Kike Salas,es ESP,DF,es Sevilla,21,2,2,165,0,0,0,0.0,0.0
+William Saliba,fr FRA,DF,eng Arsenal,22,10,10,901,0,0,0,0.3,0.0
+Brice Samba,fr FRA,GK,fr Lens,29,6,6,540,0,0,0,0.0,0.0
+Alexis Sánchez,cl CHI,FW,it Inter,34,8,4,335,2,0,1,1.2,0.5
+Davinson Sánchez,co COL,DF,tr Galatasaray,27,4,4,360,0,2,0,0.4,0.5
+Juanlu Sánchez,es ESP,DF,es Sevilla,19,6,3,322,0,1,0,0.0,0.3
+Jadon Sancho,eng ENG,FW,de Dortmund,23,7,7,558,1,0,0,0.2,0.8
+Leroy Sané,de GER,FW,de Bayern Munich,27,12,11,921,2,1,0,1.9,1.9
+Zaidu Sanusi,ng NGA,DF,pt Porto,26,4,4,307,0,0,0,0.1,0.2
+Bouna Sarr,sn SEN,DF,de Bayern Munich,31,1,0,13,0,0,0,0.0,0.0
+Leo Sauer,sk SVK,"MF,FW",nl Feyenoord,17,2,0,15,0,0,0,0.0,0.0
+Stefan Savić,me MNE,DF,es Atlético Madrid,32,6,4,413,0,0,0,0.0,0.0
+Liam Scales,ie IRL,DF,sct Celtic,24,6,6,540,0,0,0,0.1,0.1
+Fabian Schär,ch SUI,DF,eng Newcastle Utd,31,6,6,540,1,0,0,0.2,0.0
+Alexander Schlager,at AUT,GK,at RB Salzburg,27,6,6,540,0,0,0,0.0,0.0
+Xaver Schlager,at AUT,MF,de RB Leipzig,25,8,7,624,1,2,0,0.1,0.8
+Nico Schlotterbeck,de GER,DF,de Dortmund,23,12,11,976,0,2,0,0.4,0.7
+Jerdy Schouten,nl NED,"MF,DF",nl PSV Eindhoven,26,7,7,621,0,0,0,0.0,0.3
+Nicolas Seiwald,at AUT,MF,de RB Leipzig,22,4,3,272,0,0,0,0.0,0.0
+Benjamin Šeško,si SVN,FW,de RB Leipzig,20,8,4,404,2,0,0,2.8,0.1
+Luke Shaw,eng ENG,DF,eng Manchester Utd,28,2,2,135,0,1,0,0.1,0.1
+Maryan Shved,ua UKR,FW,ua Shakhtar,26,2,0,5,0,0,0,0.0,0.0
+Danylo Sikan,ua UKR,FW,ua Shakhtar,22,6,6,475,4,0,0,3.0,0.2
+André Silva,pt POR,FW,es Real Sociedad,27,2,1,92,0,0,0,0.2,0.2
+António Silva,pt POR,DF,pt Benfica,19,4,4,277,0,0,0,0.0,0.0
+Bernardo Silva,pt POR,"FW,MF",eng Manchester City,28,8,6,534,2,0,0,1.8,1.7
+Rafa Silva,pt POR,"MF,FW",pt Benfica,30,6,6,502,2,0,0,2.3,0.4
+Mohamed Simakan,fr FRA,DF,de RB Leipzig,23,7,7,598,1,0,0,0.7,0.0
+Giovanni Simeone,ar ARG,FW,it Napoli,28,6,1,97,1,0,0,1.4,0.0
+Roko Simic,hr CRO,FW,at RB Salzburg,19,6,4,338,1,1,1,1.1,1.0
+Xavi Simons,nl NED,"MF,FW",de RB Leipzig,20,8,7,596,2,2,0,1.3,1.5
+Leo Skiri Østigård,no NOR,DF,it Napoli,23,4,1,189,1,0,0,0.4,0.1
+Milan Škriniar,sk SVK,DF,fr Paris S-G,28,6,6,538,1,0,0,0.5,0.1
+Emile Smith Rowe,eng ENG,MF,eng Arsenal,23,3,0,45,0,0,0,0.2,0.1
+Cédric Soares,pt POR,DF,eng Arsenal,31,1,1,61,0,0,0,0.0,0.1
+Carlos Soler,es ESP,"MF,FW",fr Paris S-G,26,2,0,9,0,0,0,0.0,0.0
+Oumar Solet,fr FRA,DF,at RB Salzburg,23,3,2,154,0,0,0,0.0,0.0
+Yann Sommer,ch SUI,GK,it Inter,34,7,7,660,0,0,0,0.0,0.0
+Florian Sotoca,fr FRA,MF,fr Lens,32,6,6,467,0,1,0,0.5,0.9
+Boubakary Soumaré,fr FRA,MF,es Sevilla,24,4,2,216,0,0,0,0.0,0.0
+Djibril Sow,ch SUI,MF,es Sevilla,26,6,5,370,0,0,0,0.0,0.0
+Çağlar Söyüncü,tr TUR,DF,es Atlético Madrid,27,2,0,59,0,0,0,0.0,0.1
+Uroš Spajić,rs SRB,DF,rs Red Star,30,1,1,64,0,0,0,0.0,0.0
+Marco Sportiello,it ITA,GK,it Milan,31,1,0,10,0,0,0,0.0,0.0
+Marko Stamenic,nz NZL,MF,rs Red Star,21,4,4,296,1,0,0,0.5,0.0
+Orri Steinn Óskarsson,is ISL,FW,dk FC Copenhagen,18,6,1,146,0,1,0,0.0,0.5
+Calvin Stengs,nl NED,"FW,MF",nl Feyenoord,24,6,6,470,1,1,0,0.4,1.7
+Taras Stepanenko,ua UKR,MF,ua Shakhtar,33,6,6,495,0,1,0,0.5,0.1
+John Stones,eng ENG,"DF,MF",eng Manchester City,29,6,4,341,0,1,0,0.0,0.1
+Luka Sučić,hr CRO,"FW,MF",at RB Salzburg,20,6,4,392,1,0,0,0.3,0.5
+Heorhiy Sudakov,ua UKR,MF,ua Shakhtar,20,6,6,540,1,0,0,1.1,0.4
+Niklas Süle,de GER,DF,de Dortmund,27,6,4,397,0,0,0,0.0,0.1
+Suso,es ESP,MF,es Sevilla,29,2,1,82,0,0,0,0.1,0.0
+Mahamadou Susoho,es ESP,MF,eng Manchester City,18,1,0,15,0,0,0,0.0,0.0
+Christian Sørensen,dk DEN,DF,dk FC Copenhagen,30,3,0,45,0,0,0,0.0,0.1
+Mehdi Taremi,ir IRN,FW,pt Porto,31,7,6,545,2,2,0,2.6,1.0
+Matt Targett,eng ENG,DF,eng Newcastle Utd,27,2,0,22,0,0,0,0.0,0.1
+Greg Taylor,sct SCO,DF,sct Celtic,25,6,6,540,0,0,0,0.0,0.2
+Aurélien Tchouaméni,fr FRA,"MF,DF",es Real Madrid,23,8,7,603,0,0,0,0.2,0.1
+Mathys Tel,fr FRA,"FW,MF",de Bayern Munich,18,8,1,145,2,1,0,0.8,0.9
+Casper Tengstedt,dk DEN,FW,pt Benfica,23,4,2,137,0,1,0,0.1,0.4
+Marc-André ter Stegen,de GER,GK,es Barcelona,31,8,8,720,0,0,0,0.0,0.0
+Aleksa Terzić,rs SRB,DF,at RB Salzburg,23,2,2,180,0,0,0,0.0,0.1
+Tetê,br BRA,FW,tr Galatasaray,23,5,3,229,1,0,0,0.2,0.1
+Jordan Teze,nl NED,DF,nl PSV Eindhoven,23,8,8,720,1,0,0,0.3,0.9
+Odin Thiago Holm,no NOR,MF,sct Celtic,20,2,0,55,0,0,0,0.0,0.0
+Malick Thiaw,de GER,DF,it Milan,21,5,5,367,0,0,0,0.1,0.0
+Adrien Thomasson,fr FRA,MF,fr Lens,29,5,2,224,1,0,0,0.4,0.3
+Marcus Thuram,fr FRA,FW,it Inter,25,8,5,457,1,0,0,1.5,1.0
+Cheikh Tidiane Niasse,sn SEN,MF,ch Young Boys,23,6,6,534,0,1,0,0.3,0.3
+Kieran Tierney,sct SCO,DF,es Real Sociedad,26,2,1,66,0,0,0,0.1,0.1
+Guus Til,nl NED,MF,nl PSV Eindhoven,25,5,3,184,0,0,0,0.2,0.1
+Malik Tillman,us USA,MF,nl PSV Eindhoven,21,8,5,505,0,1,0,0.4,0.5
+Quinten Timber,nl NED,MF,nl Feyenoord,22,6,6,463,0,1,0,0.6,1.0
+Takehiro Tomiyasu,jp JPN,DF,eng Arsenal,24,6,5,388,0,2,0,0.3,0.6
+Fikayo Tomori,eng ENG,DF,it Milan,25,6,6,539,0,0,0,0.5,0.0
+Sandro Tonali,it ITA,MF,eng Newcastle Utd,23,3,2,161,0,0,0,0.1,0.0
+Lucas Torreira,uy URU,MF,tr Galatasaray,27,6,6,496,0,0,0,0.4,0.5
+Ferrán Torres,es ESP,FW,es Barcelona,23,8,3,378,3,1,0,1.6,0.5
+Óliver Torres,es ESP,"FW,MF",es Sevilla,28,3,1,101,0,0,0,0.0,0.1
+Lucas Tousart,fr FRA,MF,de Union Berlin,26,5,3,236,0,1,0,0.1,0.3
+Chaka Traorè,ci CIV,MF,it Milan,18,1,0,14,0,0,0,0.0,0.1
+Hamari Traoré,ml MLI,DF,es Real Sociedad,31,7,6,529,0,0,0,0.1,0.2
+Gernot Trauner,at AUT,DF,nl Feyenoord,31,4,3,280,0,0,0,0.2,0.2
+Christopher Trimmel,at AUT,"FW,DF",de Union Berlin,36,3,1,126,0,0,0,0.0,0.1
+Kieran Trippier,eng ENG,DF,eng Newcastle Utd,32,6,6,512,0,1,0,0.1,0.6
+Leandro Trossard,be BEL,FW,eng Arsenal,28,9,6,531,4,1,0,1.6,0.8
+Anatolii Trubin,ua UKR,GK,pt Benfica,21,6,6,540,0,0,0,0.0,0.0
+David Turnbull,sct SCO,"MF,FW",sct Celtic,24,2,0,35,0,0,0,0.0,0.0
+Beñat Turrientes,es ESP,MF,es Real Sociedad,21,6,1,192,0,0,0,0.5,0.2
+Ayase Ueda,jp JPN,FW,nl Feyenoord,24,5,1,151,0,0,0,1.5,0.0
+Manuel Ugarte Ribeiro,uy URU,MF,fr Paris S-G,22,8,5,391,0,0,0,0.1,0.0
+Filip Ugrinic,ch SUI,MF,ch Young Boys,24,6,6,516,1,1,0,0.5,0.6
+Andreas Ulmer,at AUT,DF,at RB Salzburg,37,3,3,218,0,0,0,0.1,0.2
+Sven Ulreich,de GER,GK,de Bayern Munich,34,3,3,270,0,0,0,0.0,0.0
+Dayot Upamecano,fr FRA,DF,de Bayern Munich,24,7,6,499,0,0,0,0.3,0.0
+Anthony Valencia,ec ECU,"MF,FW",be Antwerp,20,3,0,38,0,0,0,0.0,0.0
+Federico Valverde,uy URU,"MF,FW",es Real Madrid,25,13,12,"1,067",1,0,0,1.1,0.3
+Zeno Van den Bosch,be BEL,DF,be Antwerp,20,3,1,94,0,0,0,0.0,0.0
+Raphaël Varane,fr FRA,DF,eng Manchester Utd,30,4,3,334,0,0,0,0.0,0.0
+Alan Varela,ar ARG,MF,pt Porto,22,8,8,705,0,0,0,0.4,0.0
+Denis Vavro,sk SVK,DF,dk FC Copenhagen,27,8,8,707,0,0,0,0.1,0.0
+Lucas Vázquez,es ESP,DF,es Real Madrid,32,9,4,376,0,1,0,0.1,1.3
+Matías Vecino,uy URU,MF,it Lazio,31,6,6,469,1,0,0,0.6,0.1
+Joey Veerman,nl NED,MF,nl PSV Eindhoven,24,7,7,576,0,0,0,0.4,1.0
+Arthur Vermeeren,be BEL,MF,be Antwerp,18,6,6,540,1,2,0,0.5,0.6
+Yorbe Vertessen,be BEL,FW,nl PSV Eindhoven,22,5,1,161,1,1,0,0.4,0.1
+Fabio Vieira,pt POR,FW,eng Arsenal,23,3,0,89,0,0,0,0.0,0.1
+Vitinha,pt POR,MF,fr Paris S-G,23,12,10,914,2,1,0,1.3,2.1
+Kevin Volland,de GER,"FW,MF",de Union Berlin,31,5,2,235,1,0,0,0.7,0.4
+Stefan de Vrij,nl NED,DF,it Inter,31,6,5,496,0,0,0,0.0,0.1
+Elye Wahi,fr FRA,FW,fr Lens,20,6,6,455,2,1,0,1.1,0.1
+Kyle Walker,eng ENG,DF,eng Manchester City,33,6,6,503,0,0,0,0.2,0.3
+Aaron Wan-Bissaka,eng ENG,DF,eng Manchester Utd,25,3,2,212,0,1,0,0.0,0.5
+Timon Wellenreuther,de GER,GK,nl Feyenoord,27,2,2,180,0,0,0,0.0,0.0
+Stephen Welsh,sct SCO,DF,sct Celtic,23,1,1,74,0,0,0,0.0,0.0
+Wendell,br BRA,DF,pt Porto,30,5,4,387,0,0,0,0.1,0.0
+Timo Werner,de GER,"FW,MF",de RB Leipzig,27,4,0,50,0,0,0,0.1,0.0
+Ben White,eng ENG,DF,eng Arsenal,25,10,7,754,0,1,0,0.6,0.7
+Mats Wieffer,nl NED,MF,nl Feyenoord,23,6,5,469,1,1,0,0.6,0.2
+Owen Wijndal,nl NED,DF,be Antwerp,23,6,5,451,0,0,0,0.0,0.0
+Joe Willock,eng ENG,MF,eng Newcastle Utd,23,2,1,101,0,0,0,0.0,0.0
+Callum Wilson,eng ENG,FW,eng Newcastle Utd,31,4,2,239,0,0,0,0.8,0.1
+Axel Witsel,be BEL,"DF,MF",es Atlético Madrid,34,10,10,885,0,0,0,0.2,0.1
+Marius Wolf,de GER,"DF,FW",de Dortmund,28,6,3,285,0,0,0,0.2,0.4
+Jacob Wright,eng ENG,FW,eng Manchester City,17,1,0,3,0,0,0,0.0,0.0
+Lamine Yamal,es ESP,FW,es Barcelona,16,10,7,577,0,2,0,1.7,2.1
+Alhassan Yusuf,ng NGA,MF,be Antwerp,23,6,4,380,1,1,0,0.2,0.2
+Mattia Zaccagni,it ITA,FW,it Lazio,28,6,6,460,0,0,0,0.2,0.1
+Wilfried Zaha,ci CIV,FW,tr Galatasaray,30,6,5,399,1,1,0,0.8,0.3
+Warren Zaïre-Emery,fr FRA,MF,fr Paris S-G,17,11,10,904,1,3,0,0.7,1.3
+Arsen Zakharyan,ru RUS,"FW,MF",es Real Sociedad,20,5,2,219,0,0,0,0.3,0.1
+Rodrigo Zalazar,uy URU,MF,pt Braga,23,6,5,395,0,1,0,0.1,1.2
+Andre-Frank Zambo Anguissa,cm CMR,MF,it Napoli,27,7,7,627,1,1,0,1.0,0.6
+Alessandro Zanoli,it ITA,DF,it Napoli,22,1,0,4,0,0,0,0.0,0.0
+Ramiz Zerrouki,dz ALG,MF,nl Feyenoord,25,5,4,353,1,0,0,0.1,0.1
+Piotr Zieliński,pl POL,MF,it Napoli,29,6,6,466,1,0,1,2.0,0.6
+Oleksandr Zinchenko,ua UKR,DF,eng Arsenal,26,6,3,278,0,0,0,0.1,0.2
+Hakim Ziyech,ma MAR,FW,tr Galatasaray,30,5,3,249,2,1,0,0.2,0.5
+Igor Zubeldia,es ESP,DF,es Real Sociedad,26,8,8,692,0,0,0,0.1,0.1
+Martín Zubimendi,es ESP,MF,es Real Sociedad,24,8,8,712,0,0,0,0.6,0.2
+Oleksandr Zubkov,ua UKR,"FW,MF",ua Shakhtar,26,6,6,535,0,2,0,0.4,2.0
+Martin Ødegaard,no NOR,MF,eng Arsenal,24,9,8,750,2,1,0,1.3,0.9
+Łukasz Łakomy,pl POL,MF,ch Young Boys,22,1,0,21,0,0,0,0.0,0.0

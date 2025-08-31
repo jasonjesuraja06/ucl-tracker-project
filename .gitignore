@@ -1,0 +1,21 @@
+# Backend
+/ucl-tracker-backend/target/
+/ucl-tracker-backend/src/main/resources/application.properties
+/ucl-tracker-backend/.mvn/
+/ucl-tracker-backend/mvnw
+/ucl-tracker-backend/mvnw.cmd
+/ucl-tracker-backend/src/main/java/com/ucltracker/ucl_tracker_backend/venv 
+
+
+# Frontend
+/ucl-tracker-frontend/node_modules/
+/ucl-tracker-frontend/.env
+
+# Python Data Scripts
+/ucl-tracker-data/venv/
+/ucl-tracker-data/__pycache__/
+
+# General
+*.log
+*.class
+.DS_Store
