@@ -1,64 +1,113 @@
-# UEFA Champions League Player Performance Tracker ⚽📊
+UEFA Champions League Player Performance Tracker ⚽📊
+A full-stack web application designed to track, analyze, and visualize performance statistics for 850+ professional soccer players across 36 teams in the UEFA Champions League. This project features a secure Spring Boot REST API, a dynamic React.js frontend, and a robust PostgreSQL database.
 
-## About
+Core Features ✨
+🏆 Player Performance Dashboard: Browse and visualize detailed player statistics including goals, assists, minutes played, expected goals (xG), and expected assisted goals (xAG).
 
-The **UEFA Champions League Player Performance Tracker** is a full-stack web application designed to track, analyze, and visualize the performance of **850+ players** competing in the **2024–2025 UEFA Champions League**.
+🔍 Advanced Filtering & Search: Implement comprehensive filtering by team, nationality, and position. Optimized search queries deliver instant results from a large dataset.
 
-The project combines data engineering, backend APIs, modern frontend frameworks, and secure authentication.
+📊 Dynamic Leaderboards: View interactive leaderboards showcasing top players based on key performance indicators like goals, assists, or advanced metrics.
 
-The project allows fans, analysts, and scouts to filter and compare players by team, nationality, and position, as well as view advanced statistics such as **expected goals (xG)** and **expected assisted goals (xAG)**.
+🔐 Secure Authentication & Authorization: Integrated Google OAuth2 and OpenID Connect for secure user login. A JWT-based system ensures that API endpoints are protected.
 
-**Admin users** (restricted via Google OAuth2 + Spring Security role-based access) have full CRUD functionality to manage player records securely.
+⚙️ Role-Based Admin Panel: Admins have exclusive, role-based access to perform CRUD (Create, Read, Update, Delete) operations on player records through a secure interface.
 
-## Features ✨
+📱 Responsive UI: The frontend is built with React.js and styled with Tailwind CSS, providing a sleek, modern, and fully responsive user experience on both desktop and mobile devices.
 
-### 🏆 **Player Performance Dashboard**
-Browse detailed player stats including goals, assists, minutes, starts, penalty kicks, xG, and xAG.
+Technical Architecture 🛠️
+This application is built with a modern, decoupled architecture. The React frontend communicates with a secure, stateless Spring Boot backend via a REST API. Authentication is handled using Google OAuth2, with JWTs used to authorize subsequent API requests.
 
-### 🔍 **Advanced Filtering & Search**
-Explore players by team, nationality, position, or custom filters with instant search functionality.
+Frontend (React.js): The client-side application, built with Vite and styled with Tailwind CSS, handles all user interactions and data visualization.
 
-### 📊 **Leaderboard & Rankings**
-Dynamic leaderboard to showcase top players based on goals, assists, or expected stats.
+Backend (Spring Boot): The server-side application exposes a REST API for all data operations. It leverages Spring Data JPA for database interaction and Spring Security for robust authentication and authorization.
 
-### 🔐 **Authentication & Authorization**
-Integrated Google OAuth2 Login with role-based access; only designated admins can perform CRUD operations.
+Database (PostgreSQL): A relational database used to store and manage all player, team, and statistical data efficiently.
 
-### ⚙️ **Admin Panel (CRUD)**
-Create, update, patch, and delete player records through a protected admin interface.
+Authentication Flow:
 
-### 📱 **Responsive UI**
-Built with **React.js + Tailwind CSS**, delivering a sleek, modern design optimized for desktop and mobile.
+User logs in via Google OAuth2.
 
-### 🚀 **Scalable Data Management**
-Backend built on **Spring Boot + PostgreSQL**, secured with Spring Security (OAuth2, JWT, OpenID Connect).
+The Spring Boot backend validates the token and generates a session JWT.
 
-## Tech Stack 🛠️
+This JWT is sent with every subsequent API request to access protected resources.
 
-### **Backend**
-- **Spring Boot 3**
-- Spring Data JPA
-- Hibernate
-- Spring Security
-- OAuth2
-- JWT
+Role-based access control restricts sensitive operations (like CRUD) to admin users only.
 
-### **Frontend**
-- **React.js** (Vite)
-- **Tailwind CSS**
-- Axios
-- React Router
+Tech Stack
+Category
 
-### **Database**
-- **PostgreSQL** (hosted locally, deployable to AWS RDS)
+Technology / Framework
 
-### **Authentication**
-- **Google OAuth2**
-- OpenID Connect
+Backend
 
-### **DevOps / Deployment**
-**Planned:**
-- **AWS Elastic Beanstalk** (backend)
-- **AWS RDS** (database)
-- **Vercel** (frontend)
-- HTTPS security with SSL/TLS
+Java, Spring Boot 3, Spring Security, Spring Data JPA, Hibernate, JWT
+
+Frontend
+
+React.js (Vite), JavaScript, HTML5, Tailwind CSS, Axios, React Router
+
+Database
+
+PostgreSQL
+
+Auth
+
+Google OAuth2, OpenID Connect
+
+Dev Tools
+
+Git, IntelliJ, VS Code, Postman
+
+Planned DevOps
+
+Docker, AWS Elastic Beanstalk (Backend), AWS RDS (Database), Vercel (Frontend)
+
+Getting Started
+To run this project locally, you will need Java (JDK), Node.js, and PostgreSQL installed.
+
+Prerequisites
+Java 21+
+
+Maven 3.8+
+
+Node.js 18+
+
+PostgreSQL 15+
+
+Backend Setup
+Clone the repository:
+
+git clone [https://github.com/jasonjesuraja06/ucl-tracker-project.git](https://github.com/jasonjesuraja06/ucl-tracker-project.git)
+cd ucl-tracker-project/backend
+
+Configure your PostgreSQL database in src/main/resources/application.properties.
+
+Set up your Google OAuth2 credentials.
+
+Build and run the Spring Boot application:
+
+mvn spring-boot:run
+
+The backend will be running on http://localhost:8080.
+
+Frontend Setup
+Navigate to the frontend directory:
+
+cd ../frontend
+
+Install the required npm packages:
+
+npm install
+
+Start the React development server:
+
+npm run dev
+
+The frontend will be accessible at http://localhost:5173.
+
+Author
+Jason Jesuraja
+
+LinkedIn: linkedin.com/in/jason-jesuraja
+
+GitHub: github.com/jasonjesuraja06
