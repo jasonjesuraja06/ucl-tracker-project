@@ -9,7 +9,7 @@
 
 A production-ready, full-stack web application tracking real-time statistics for **850+ professional soccer players** across **36 UEFA Champions League teams**. Features a comprehensive admin dashboard, automated data pipelines, enterprise OAuth2 authentication, and responsive React UI with advanced filtering capabilities.
 
-## 🎯 Key Technical Achievements
+## Key Technical Achievements
 
 - **Full CRUD Admin Panel**: Complete player management system with create, update, patch, and delete operations
 - **Multi-View Architecture**: 9 distinct pages (Teams, Nations, Positions, Leaderboard, Admin) with dynamic routing
@@ -18,7 +18,7 @@ A production-ready, full-stack web application tracking real-time statistics for
 - **Enterprise Security**: OAuth2/OIDC with Google, JWT validation, email-based role authorization
 - **Responsive Design**: Tailwind CSS with glassmorphic effects, animations, and mobile-first approach
 
-## 🏗️ Full Application Architecture
+## Full Application Architecture
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -60,9 +60,9 @@ A production-ready, full-stack web application tracking real-time statistics for
 └─────────────────────────────────────────────────────────────┘
 ```
 
-## 📊 Complete Feature Implementation
+## Complete Feature Implementation
 
-### 🎨 Frontend Features (React + Vite)
+### Frontend Features (React + Vite)
 
 #### Page Components (9 Total)
 
@@ -158,7 +158,7 @@ A production-ready, full-stack web application tracking real-time statistics for
 - Children prop pattern
 ```
 
-### 🔐 Backend Implementation Details
+### Backend Implementation Details
 
 #### Controller Layer (20+ Endpoints)
 
@@ -259,7 +259,7 @@ Set allowedEmails (case-insensitive)
 - Fallback image handling
 ```
 
-## 🛠️ Complete Technology Stack
+## Complete Technology Stack
 
 ### Frontend Stack
 | Technology | Version | Purpose |
@@ -293,7 +293,7 @@ Set allowedEmails (case-insensitive)
 | **psycopg2** | PostgreSQL driver |
 | **requests** | HTTP library |
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ucl-tracker-project/
@@ -345,7 +345,7 @@ ucl-tracker-project/
     └── rename_assets.py
 ```
 
-## 🔧 Installation & Configuration
+## Installation & Configuration
 
 ### Prerequisites
 - Java 17+
@@ -406,7 +406,7 @@ spring.security.oauth2.client.registration.google.client-secret=YOUR_SECRET
 app.admin.emails=admin1@gmail.com,admin2@gmail.com
 ```
 
-## 📊 Performance Metrics
+## Performance Metrics
 
 | Component | Metric | Value |
 |-----------|--------|-------|
@@ -417,7 +417,7 @@ app.admin.emails=admin1@gmail.com,admin2@gmail.com
 | **Frontend Build** | Production bundle | < 500KB |
 | **UI Rendering** | First Contentful Paint | < 1.5s |
 
-## 🔒 Security Features
+## Security Features
 
 ✅ **OAuth2/OIDC** - Google authentication with OpenID scope  
 ✅ **JWT Validation** - Token verification via Google issuer  
@@ -429,7 +429,7 @@ app.admin.emails=admin1@gmail.com,admin2@gmail.com
 ✅ **XSS Protection** - React automatic escaping  
 ✅ **Error Sanitization** - Global exception handler  
 
-## 🧪 Testing
+## Testing
 
 ```bash
 # Frontend tests
@@ -447,7 +447,7 @@ cd data-pipeline
 pytest test_scraper.py
 ```
 
-## 🚀 Deployment Strategy
+## Deployment Strategy
 
 ### Production Architecture
 ```yaml
@@ -458,7 +458,7 @@ Assets: S3 + CloudFront CDN
 Monitoring: Spring Actuator + CloudWatch
 ```
 
-## 📈 API Usage Examples
+## API Usage Examples
 
 ### Authentication Flow
 ```javascript
@@ -508,11 +508,11 @@ const { data } = await api.get('/api/players/filter', {
 });
 ```
 
-## 📝 License
+## License
 
 MIT License - see [LICENSE](LICENSE) for details.
 
-## 👨‍💻 Author
+## Author
 
 **Jason Jesuraja**
 - **LinkedIn**: [linkedin.com/in/jason-jesuraja](https://linkedin.com/in/jason-jesuraja)
@@ -520,7 +520,7 @@ MIT License - see [LICENSE](LICENSE) for details.
 - **Email**: jjesuraja3@gatech.edu
 - **University**: Georgia Institute of Technology
 
-## 🏆 Acknowledgments
+## Acknowledgments
 
 - FBref.com for comprehensive UEFA Champions League statistics
 - ESPN API for high-quality team logos
