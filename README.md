@@ -230,7 +230,7 @@ Double xg = asFloat(request.getXg());
 Set allowedEmails (case-insensitive)
 ```
 
-### 📈 Data Pipeline Components
+### Data Pipeline Components
 
 #### Web Scraping System
 ```python
